@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TodoApp1.Core/1.0.0": {
+        "runtime": {
+          "TodoApp1.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TodoApp1.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

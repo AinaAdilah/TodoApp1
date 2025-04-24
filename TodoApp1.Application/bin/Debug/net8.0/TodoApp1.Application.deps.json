@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TodoApp1.Application/1.0.0": {
+        "dependencies": {
+          "TodoApp1.Core": "1.0.0"
+        },
+        "runtime": {
+          "TodoApp1.Application.dll": {}
+        }
+      },
+      "TodoApp1.Core/1.0.0": {
+        "runtime": {
+          "TodoApp1.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TodoApp1.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TodoApp1.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
